@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tushar1705/PAYMENT-GATEWAY.git/static/css/main.2da938f1.css",
+    "main.js": "/tushar1705/PAYMENT-GATEWAY.git/static/js/main.23e252f7.js",
+    "static/media/3.jpg": "/tushar1705/PAYMENT-GATEWAY.git/static/media/3.db30ef7364b556958212.jpg",
+    "static/media/education.jpg": "/tushar1705/PAYMENT-GATEWAY.git/static/media/education.a941a040d5013591a0ac.jpg",
+    "static/media/distribution.jpg": "/tushar1705/PAYMENT-GATEWAY.git/static/media/distribution.b154b909d1e518c5b67c.jpg",
+    "static/media/meals.jpg": "/tushar1705/PAYMENT-GATEWAY.git/static/media/meals.969f12b117a6d0fbd38b.jpg",
+    "static/media/4.jpg": "/tushar1705/PAYMENT-GATEWAY.git/static/media/4.e5f43a278854bc0eb869.jpg",
+    "static/media/5.jpg": "/tushar1705/PAYMENT-GATEWAY.git/static/media/5.97183e6c49467b87e875.jpg",
+    "index.html": "/tushar1705/PAYMENT-GATEWAY.git/index.html",
+    "main.2da938f1.css.map": "/tushar1705/PAYMENT-GATEWAY.git/static/css/main.2da938f1.css.map",
+    "main.23e252f7.js.map": "/tushar1705/PAYMENT-GATEWAY.git/static/js/main.23e252f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da938f1.css",
+    "static/js/main.23e252f7.js"
+  ]
+}
